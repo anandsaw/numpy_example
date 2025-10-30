@@ -1,4 +1,3 @@
-iconstructs<11.0.0,>=10.0.0
 aws-cdk-lib>=2.0.0
 pyyaml
 boto3
